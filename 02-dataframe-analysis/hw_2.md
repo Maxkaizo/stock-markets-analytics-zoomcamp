@@ -28,3 +28,9 @@
 
 ![alt text](image-2.png)
 
+
+### Q4. Solution
+
+![alt text](image-3.png)
+
+
