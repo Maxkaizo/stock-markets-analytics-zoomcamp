@@ -21,4 +21,17 @@ What is the precision score for the best of the NEW predictions (pred3 or pred4)
 
 ![alt text](image-1.png)
 
+## Question 3: Unique Correct Predictions from a 10-Level Decision Tree Classifier (pred5_clf_10)
+
+What is the total number of records in the TEST dataset where the new prediction pred5_clf_10 is correct, while all 'hand' rule predictions (pred0 to pred4) are incorrect?
+
+### Q3. Solution
+
+* 3770
+
+![alt text](image-2.png)
+
+
+## 
+
 
