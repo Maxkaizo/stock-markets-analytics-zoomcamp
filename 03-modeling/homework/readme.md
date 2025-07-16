@@ -31,7 +31,16 @@ What is the total number of records in the TEST dataset where the new prediction
 
 ![alt text](image-2.png)
 
+## Question 4: Hyperparameter tuning for a Decision Tree
 
-## 
+What is the optimal tree depth (from 1 to 20) for a DecisionTreeClassifier?
+
+### Q4. Solution
+
+* Best max_depth: 5, with test precision: 0.6278
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 
